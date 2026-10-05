@@ -1,5 +1,7 @@
 # Namviek
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/hudy9x/namviek)
+
 Namviek is designed for development teams operating on limited budgets, providing essential project management features without the high costs. Read the full [story here](https://dev.to/hudy9x/i-built-a-free-open-source-project-manager-that-helps-teams-keep-costs-under-15month-3pmk).
 
 ![App shot](https://github.com/hudy9x/namviek/assets/95471659/00cab20a-747a-4cf5-8f5e-105f314f7e2f)
